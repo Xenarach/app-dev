@@ -1,5 +1,6 @@
 # app-dev
 My First Repository
+
 Favorite Movie: Inside Out
 1. Inside Out is a Pixar animated movie that explores the emotions and thoughts inside the mind of a young girl named Riley.
 2. The movie personifies her emotions - Joy, Sadness, Anger, Fear, and Disgust - as characters in her mind.
